@@ -1,0 +1,14 @@
+.submit{
+    background-color: orangered;
+    color: white;
+    border: none;
+   
+}
+.contact{
+    color: orangered;
+}
+.submit:hover{
+    background-color: whitesmoke;
+    color: orangered;
+    border: 1px solid black;
+}
